@@ -101,9 +101,7 @@ $data = mysqli_fetch_assoc($result);
   <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="container">
-      <div class="copyright">
-        &copy; Copyright <strong><span>Portfolio</span></strong>
-      </div>
+
       <div class="credits">
       
         Designed by Nehal Solanki</a>
